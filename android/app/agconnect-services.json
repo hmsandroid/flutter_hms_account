@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"5190090000026529982",
+		"product_id":"736430079244717237",
+		"client_id":"504524651154637888",
+		"client_secret":"7631554D62A32E56830FA795719DDB1D14BB4917BEF1E98F6BBC4AB5E1D0C90A",
+		"project_id":"736430079244717237",
+		"app_id":"103363349",
+		"api_key":"CgB6e3x9ww/dr5hzcixditsgNZQ2Gg9evK/acDlq3Lm+CrEgmZqv/5R749LHyp+Wuy/7EKHPE/PIiHH8h0N7POyK",
+		"package_name":"com.flutterhmsaccount.huawei"
+	},
+	"configuration_version":"1.0"
+}
